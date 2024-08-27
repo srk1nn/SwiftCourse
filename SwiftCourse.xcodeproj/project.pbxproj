@@ -103,7 +103,7 @@
 		4F3D74A02C7DEB2600A9DCE8 /* 2BasicOperators.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2BasicOperators.md; sourceTree = "<group>"; };
 		4F3D74A32C7DEBA200A9DCE8 /* division.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = division.png; sourceTree = "<group>"; };
 		4F3D74A42C7DECD600A9DCE8 /* linter.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = linter.md; sourceTree = "<group>"; };
-		4F3D74A62C7DEF9500A9DCE8 /* repodescription.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = repodescription.md; sourceTree = "<group>"; };
+		4F3D74A62C7DEF9500A9DCE8 /* repo-description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "repo-description.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,7 +150,7 @@
 			children = (
 				4F3D74A22C7DEB9500A9DCE8 /* Resources */,
 				4F3D74582C7B855900A9DCE8 /* readme.md */,
-				4F3D74A62C7DEF9500A9DCE8 /* repodescription.md */,
+				4F3D74A62C7DEF9500A9DCE8 /* repo-description.md */,
 				4F3D74A42C7DECD600A9DCE8 /* linter.md */,
 				4F3D73EC2C7B48E600A9DCE8 /* SwiftCourse */,
 				4F3D73EB2C7B48E600A9DCE8 /* Products */,

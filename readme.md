@@ -7,7 +7,7 @@
 
 ## Навигация
 - [Задачи](SwiftCourse/Exercises)
-- [Работа с проектом](repodescription.md)
+- [Работа с проектом](repo-description.md)
 - [Линтер](linter.md)
 
 ## Ссылки
