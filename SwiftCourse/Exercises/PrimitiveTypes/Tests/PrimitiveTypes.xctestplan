@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "A0FAFD3A-4603-43AC-9541-2ACE28974C04",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SwiftCourse.xcodeproj",
+      "identifier" : "4F3D73E92C7B48E600A9DCE8",
+      "name" : "Variables"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftCourse.xcodeproj",
+        "identifier" : "4F3D74272C7B4F7C00A9DCE8",
+        "name" : "VariablesTests"
+      }
+    }
+  ],
+  "version" : 1
+}

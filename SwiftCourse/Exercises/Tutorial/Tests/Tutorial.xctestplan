@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "B543D9ED-93B3-4F1C-AF4E-7ADBC5738567",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SwiftCourse.xcodeproj",
+      "identifier" : "4F3D74042C7B4B7300A9DCE8",
+      "name" : "Tutorial"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftCourse.xcodeproj",
+        "identifier" : "4F3D74162C7B4C8400A9DCE8",
+        "name" : "TutorialTests"
+      }
+    }
+  ],
+  "version" : 1
+}
