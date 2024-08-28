@@ -15,7 +15,7 @@
 
 У типов Int, Double, String, Bool есть свои литералы, по которым Swift может автоматически определить тип. У типов Float и Character своих литералов нет, поэтому для них тип нужно указывать явно.
 
-[**Зачем нужно разделение на целочисленные и дробные типы?**](https://www.reddit.com/r/learnpython/comments/wnbpve/comment/ik476vm/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+ [**Зачем нужно разделение на целочисленные и дробные типы?**](https://www.reddit.com/r/learnpython/comments/wnbpve/comment/ik476vm/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ### Float и Double
 

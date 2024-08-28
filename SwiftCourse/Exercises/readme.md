@@ -1,4 +1,4 @@
 # Задачи
 
-- [Общие](Tutorial)
-- [Переменные, примитивные типы и их операторы](PrimitiveTypes)
+- [Tutorial](Tutorial) – проверка работы проекта
+- [PrimitiveTypes](PrimitiveTypes) – Переменные, примитивные типы и их операторы

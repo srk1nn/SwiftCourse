@@ -1,7 +1,10 @@
-# Переменные, примитивные типы и их операторы
+# PrimitiveTypes 
+
+Переменные, примитивные типы и их операторы
 
 ## Пререквизиты
 
+TODO:
 - [1. Типы данных. Переменные](Youtube/link)
 - [2. Базовые операторы](Youtube/link)
 
@@ -12,9 +15,9 @@
 
 ## Задачи
 
-- [Калькулятор чаевых](Tips)
-- [5 минут назад](FiveMinutesAgo)
-- [Сумма цифр](DigitsSum)
-- [Описание студента](StudentInfo)
-- [Вход в систему](Login)
-- [Странная акция](Promotion)
+- [Tips](Tips) – Калькулятор чаевых
+- [FiveMinutesAgo](FiveMinutesAgo) – 5 минут назад
+- [DigitsSum](DigitsSum) – Сумма цифр
+- [StudentInfo](StudentInfo) – Описание студента
+- [Login](Login) – Вход в систему
+- [Promotion](Promotion) – Странная акция
