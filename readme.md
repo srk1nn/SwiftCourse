@@ -7,11 +7,10 @@
 
 ## Навигация
 - [Задачи](SwiftCourse/Exercises)
-- [Работа с проектом](repo-description.md)
-- [Линтер](linter.md)
+- [Работа с проектом](SwiftCourse/Docs/repo-description.md)
+- [Линтер](SwiftCourse/Docs/linter.md)
 
 ## Ссылки
-TODO:
 - Видео на YouTube
 - Видео на RuTube
 - Видео на VK

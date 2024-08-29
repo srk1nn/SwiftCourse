@@ -13,7 +13,6 @@
 - <doc:linter>
 
 ## Ссылки
-TODO:
 - Видео на YouTube
 - Видео на RuTube
 - Видео на VK

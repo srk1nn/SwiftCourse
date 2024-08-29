@@ -103,9 +103,9 @@
 		4F3D749D2C7DE8CB00A9DCE8 /* PromotionTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromotionTestCase.swift; sourceTree = "<group>"; };
 		4F3D749F2C7DEA5C00A9DCE8 /* 1TypesVariables.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 1TypesVariables.md; sourceTree = "<group>"; };
 		4F3D74A02C7DEB2600A9DCE8 /* 2BasicOperators.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 2BasicOperators.md; sourceTree = "<group>"; };
-		4F3D74A32C7DEBA200A9DCE8 /* division.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = division.png; sourceTree = "<group>"; };
-		4F3D74A42C7DECD600A9DCE8 /* linter.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = linter.md; sourceTree = "<group>"; };
-		4F3D74A62C7DEF9500A9DCE8 /* repo-description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "repo-description.md"; sourceTree = "<group>"; };
+		4F82732E2C80528B003D4571 /* linter.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = linter.md; sourceTree = "<group>"; };
+		4F82732F2C80528B003D4571 /* repo-description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "repo-description.md"; sourceTree = "<group>"; };
+		4F8273302C80528B003D4571 /* division.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = division.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,10 +150,7 @@
 		4F3D73E12C7B48E600A9DCE8 = {
 			isa = PBXGroup;
 			children = (
-				4F3D74A22C7DEB9500A9DCE8 /* Resources */,
 				4F3D74582C7B855900A9DCE8 /* readme.md */,
-				4F3D74A62C7DEF9500A9DCE8 /* repo-description.md */,
-				4F3D74A42C7DECD600A9DCE8 /* linter.md */,
 				4F3D73EC2C7B48E600A9DCE8 /* SwiftCourse */,
 				4F3D73EB2C7B48E600A9DCE8 /* Products */,
 			);
@@ -254,8 +251,10 @@
 		4F3D74532C7B832900A9DCE8 /* Docs */ = {
 			isa = PBXGroup;
 			children = (
-				4F3D74542C7B836F00A9DCE8 /* main.swift */,
-				4F39F9412C7F072C008DD49D /* SwiftCourse.docc */,
+				4F82732D2C80526E003D4571 /* DocC */,
+				4F8273312C80528B003D4571 /* Resources */,
+				4F82732E2C80528B003D4571 /* linter.md */,
+				4F82732F2C80528B003D4571 /* repo-description.md */,
 			);
 			path = Docs;
 			sourceTree = "<group>";
@@ -314,10 +313,19 @@
 			path = Promotion;
 			sourceTree = "<group>";
 		};
-		4F3D74A22C7DEB9500A9DCE8 /* Resources */ = {
+		4F82732D2C80526E003D4571 /* DocC */ = {
 			isa = PBXGroup;
 			children = (
-				4F3D74A32C7DEBA200A9DCE8 /* division.png */,
+				4F3D74542C7B836F00A9DCE8 /* main.swift */,
+				4F39F9412C7F072C008DD49D /* SwiftCourse.docc */,
+			);
+			path = DocC;
+			sourceTree = "<group>";
+		};
+		4F8273312C80528B003D4571 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4F8273302C80528B003D4571 /* division.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
