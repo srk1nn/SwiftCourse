@@ -9,8 +9,8 @@
 
 ## Конспекты
 
-- [1. Типы данных. Переменные](1TypesVariables.md)
-- [2. Базовые операторы](2BasicOperators.md)
+- [1. Типы данных. Переменные](../../Support/Synopsis/1TypesVariables.md)
+- [2. Базовые операторы](../../Support/Synopsis/2BasicOperators.md)
 
 ## Задачи
 

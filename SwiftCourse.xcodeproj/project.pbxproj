@@ -147,6 +147,33 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F0F4AFC2C84C10800E45523 /* Docs */ = {
+			isa = PBXGroup;
+			children = (
+				4F82732E2C80528B003D4571 /* linter.md */,
+				4F82732F2C80528B003D4571 /* repo-description.md */,
+			);
+			path = Docs;
+			sourceTree = "<group>";
+		};
+		4F0F4AFD2C84C13700E45523 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				4F3D74102C7B4C2300A9DCE8 /* Tutorial */,
+				4F3D74302C7B4FAC00A9DCE8 /* PrimitiveTypes */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		4F0F4AFE2C84C18900E45523 /* Synopsis */ = {
+			isa = PBXGroup;
+			children = (
+				4F3D749F2C7DEA5C00A9DCE8 /* 1TypesVariables.md */,
+				4F3D74A02C7DEB2600A9DCE8 /* 2BasicOperators.md */,
+			);
+			path = Synopsis;
+			sourceTree = "<group>";
+		};
 		4F3D73E12C7B48E600A9DCE8 = {
 			isa = PBXGroup;
 			children = (
@@ -171,8 +198,8 @@
 		4F3D73EC2C7B48E600A9DCE8 /* SwiftCourse */ = {
 			isa = PBXGroup;
 			children = (
-				4F3D74532C7B832900A9DCE8 /* Docs */,
 				4F3D73F42C7B495F00A9DCE8 /* Exercises */,
+				4F3D74532C7B832900A9DCE8 /* Support */,
 			);
 			path = SwiftCourse;
 			sourceTree = "<group>";
@@ -190,8 +217,6 @@
 		4F3D73F52C7B49AB00A9DCE8 /* PrimitiveTypes */ = {
 			isa = PBXGroup;
 			children = (
-				4F3D749F2C7DEA5C00A9DCE8 /* 1TypesVariables.md */,
-				4F3D74A02C7DEB2600A9DCE8 /* 2BasicOperators.md */,
 				4F3D745A2C7B8CB000A9DCE8 /* readme.md */,
 				4F3D73ED2C7B48E600A9DCE8 /* main.swift */,
 				4F3D74732C7CB95300A9DCE8 /* Tips */,
@@ -200,7 +225,6 @@
 				4F3D748A2C7DBE9300A9DCE8 /* StudentInfo */,
 				4F3D74912C7DC27F00A9DCE8 /* Login */,
 				4F3D74982C7DC6FB00A9DCE8 /* Promotion */,
-				4F3D74302C7B4FAC00A9DCE8 /* Tests */,
 			);
 			path = PrimitiveTypes;
 			sourceTree = "<group>";
@@ -211,7 +235,6 @@
 				4F3D747B2C7CD14400A9DCE8 /* readme.md */,
 				4F3D740E2C7B4BD100A9DCE8 /* main.swift */,
 				4F3D73F72C7B49F200A9DCE8 /* UltimateQuestion */,
-				4F3D74102C7B4C2300A9DCE8 /* Tests */,
 			);
 			path = Tutorial;
 			sourceTree = "<group>";
@@ -225,16 +248,16 @@
 			path = UltimateQuestion;
 			sourceTree = "<group>";
 		};
-		4F3D74102C7B4C2300A9DCE8 /* Tests */ = {
+		4F3D74102C7B4C2300A9DCE8 /* Tutorial */ = {
 			isa = PBXGroup;
 			children = (
 				4F3D74202C7B4D2900A9DCE8 /* Tutorial.xctestplan */,
 				4F3D74112C7B4C4C00A9DCE8 /* UltimateQuestionTestCase.swift */,
 			);
-			path = Tests;
+			path = Tutorial;
 			sourceTree = "<group>";
 		};
-		4F3D74302C7B4FAC00A9DCE8 /* Tests */ = {
+		4F3D74302C7B4FAC00A9DCE8 /* PrimitiveTypes */ = {
 			isa = PBXGroup;
 			children = (
 				4F3D74312C7B4FB900A9DCE8 /* PrimitiveTypes.xctestplan */,
@@ -245,18 +268,19 @@
 				4F3D74962C7DC60300A9DCE8 /* LoginTestCase.swift */,
 				4F3D749D2C7DE8CB00A9DCE8 /* PromotionTestCase.swift */,
 			);
-			path = Tests;
+			path = PrimitiveTypes;
 			sourceTree = "<group>";
 		};
-		4F3D74532C7B832900A9DCE8 /* Docs */ = {
+		4F3D74532C7B832900A9DCE8 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				4F0F4AFE2C84C18900E45523 /* Synopsis */,
+				4F0F4AFD2C84C13700E45523 /* Tests */,
+				4F0F4AFC2C84C10800E45523 /* Docs */,
 				4F82732D2C80526E003D4571 /* DocC */,
 				4F8273312C80528B003D4571 /* Resources */,
-				4F82732E2C80528B003D4571 /* linter.md */,
-				4F82732F2C80528B003D4571 /* repo-description.md */,
 			);
-			path = Docs;
+			path = Support;
 			sourceTree = "<group>";
 		};
 		4F3D74732C7CB95300A9DCE8 /* Tips */ = {

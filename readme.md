@@ -8,8 +8,8 @@
 
 ## Навигация
 - [Задачи](SwiftCourse/Exercises)
-- [Работа с проектом](SwiftCourse/Docs/repo-description.md)
-- [Линтер](SwiftCourse/Docs/linter.md)
+- [Работа с проектом](SwiftCourse/Support/Docs/repo-description.md)
+- [Линтер](SwiftCourse/Support/Docs/linter.md)
 
 ## Ссылки
 - Видео на YouTube

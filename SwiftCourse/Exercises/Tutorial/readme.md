@@ -4,4 +4,4 @@
 
 ## Задачи
 
-- [UltimateQuestion](UltimateQuestion) – Ответ на главный вопрос жизни, вселенной и всего такого
+- [UltimateQuestion](UltimateQuestion) – Ответ на главный вопрос жизни, вселенной и всего остального

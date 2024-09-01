@@ -2,5 +2,5 @@
 
 Темы задач
 
-- [Tutorial](Tutorial) – проверка работы проекта
+- [Tutorial](Tutorial) – Проверка работы проекта
 - [PrimitiveTypes](PrimitiveTypes) – Переменные, примитивные типы и их операторы
