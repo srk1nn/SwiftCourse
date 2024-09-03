@@ -9,5 +9,5 @@ import Foundation
 
 // swiftlint:disable:next function_parameter_count
 func satisfyPromotion(name: String, age: Int, isCardAdded: Bool, productPrice: Double, productDiscountPercent: Double, isUserSatisfy: inout Bool) {
-
+    // Решение...
 }

@@ -8,5 +8,5 @@
 import Foundation
 
 func login(username: String, password: String, attemptCount: Int, isLoginSuccess: inout Bool) {
-
+    // Решение...
 }

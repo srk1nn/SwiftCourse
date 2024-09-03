@@ -30,7 +30,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <TestPlans>
          <TestPlanReference
-            reference = "container:SwiftCourse/Exercises/Tutorial/Tests/Tutorial.xctestplan"
+            reference = "container:SwiftCourse/Support/Tests/Tutorial/Tutorial.xctestplan"
             default = "YES">
          </TestPlanReference>
       </TestPlans>

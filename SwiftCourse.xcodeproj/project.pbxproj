@@ -65,6 +65,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4F0C79022C86E4540082F4F6 /* how-to-use-main-file.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "how-to-use-main-file.md"; sourceTree = "<group>"; };
+		4F0C79032C86E6C10082F4F6 /* main-scheme-select.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main-scheme-select.png"; sourceTree = "<group>"; };
+		4F0C79042C86E7430082F4F6 /* main-run.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "main-run.png"; sourceTree = "<group>"; };
+		4F0C79052C86E7890082F4F6 /* task-resolve-process.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "task-resolve-process.md"; sourceTree = "<group>"; };
+		4F0C79062C86E8F60082F4F6 /* tests-scheme.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tests-scheme.png"; sourceTree = "<group>"; };
+		4F0C79072C86E90B0082F4F6 /* tests-start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tests-start.png"; sourceTree = "<group>"; };
 		4F39F9412C7F072C008DD49D /* SwiftCourse.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = SwiftCourse.docc; sourceTree = "<group>"; };
 		4F3D73EA2C7B48E600A9DCE8 /* PrimitiveTypes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PrimitiveTypes; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3D73ED2C7B48E600A9DCE8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -152,6 +158,8 @@
 			children = (
 				4F82732E2C80528B003D4571 /* linter.md */,
 				4F82732F2C80528B003D4571 /* repo-description.md */,
+				4F0C79022C86E4540082F4F6 /* how-to-use-main-file.md */,
+				4F0C79052C86E7890082F4F6 /* task-resolve-process.md */,
 			);
 			path = Docs;
 			sourceTree = "<group>";
@@ -350,6 +358,10 @@
 			isa = PBXGroup;
 			children = (
 				4F8273302C80528B003D4571 /* division.png */,
+				4F0C79032C86E6C10082F4F6 /* main-scheme-select.png */,
+				4F0C79042C86E7430082F4F6 /* main-run.png */,
+				4F0C79062C86E8F60082F4F6 /* tests-scheme.png */,
+				4F0C79072C86E90B0082F4F6 /* tests-start.png */,
 			);
 			path = Resources;
 			sourceTree = "<group>";

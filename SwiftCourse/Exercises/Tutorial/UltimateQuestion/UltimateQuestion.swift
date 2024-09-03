@@ -8,5 +8,5 @@
 import Foundation
 
 func ultimateQuestionOfLifeAndEverything(_ answer: inout Int) {
-    // Решение...
+    answer = 42
 }
