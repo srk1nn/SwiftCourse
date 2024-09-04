@@ -16,7 +16,7 @@ final class BodyMassIndex: XCTestCase {
         calculateBMI(weight: "72", height: "1.60", bmi: &bmi)
         // then
         XCTAssertTrue(
-            bmi.compare(with: 28.125) == .equal,
+            bmi.compare(with: 72 / (1.6 * 1.6)) == .equal,
             "При весе 72 и росте 1.60 bmi должен быть 28.125. А сейчас \(bmi)"
         )
     }
@@ -28,7 +28,7 @@ final class BodyMassIndex: XCTestCase {
         calculateBMI(weight: "81", height: "1.80", bmi: &bmi)
         // then
         XCTAssertTrue(
-            bmi.compare(with: 25) == .equal,
+            bmi.compare(with: 81 / (1.8 * 1.8)) == .equal,
             "При весе 81 и росте 1.80 bmi должен быть 25. А сейчас \(bmi)"
         )
     }

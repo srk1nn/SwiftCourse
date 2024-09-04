@@ -9,7 +9,7 @@ import XCTest
 
 // swiftlint:disable line_length
 
-final class PromotionTestCase: XCTestCase {
+final class Promotion: XCTestCase {
 
     func testPromotion() throws {
         // given
