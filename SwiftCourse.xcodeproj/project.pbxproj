@@ -54,10 +54,10 @@
 		4F3D74902C7DC0A200A9DCE8 /* StudentInfoTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D748F2C7DC0A200A9DCE8 /* StudentInfoTestCase.swift */; };
 		4F3D74942C7DC5C900A9DCE8 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D74932C7DC5C900A9DCE8 /* Login.swift */; };
 		4F3D74952C7DC5CE00A9DCE8 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D74932C7DC5C900A9DCE8 /* Login.swift */; };
-		4F3D74972C7DC60300A9DCE8 /* LoginTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D74962C7DC60300A9DCE8 /* LoginTestCase.swift */; };
 		4F3D749B2C7DE82200A9DCE8 /* Promotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D749A2C7DE82200A9DCE8 /* Promotion.swift */; };
 		4F3D749C2C7DE82500A9DCE8 /* Promotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D749A2C7DE82200A9DCE8 /* Promotion.swift */; };
-		4F3D749E2C7DE8CB00A9DCE8 /* PromotionTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D749D2C7DE8CB00A9DCE8 /* PromotionTestCase.swift */; };
+		4FAFBC752C88A3C9006D47AD /* PromotionTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D749D2C7DE8CB00A9DCE8 /* PromotionTestCase.swift */; };
+		4FAFBC762C88A3CF006D47AD /* LoginTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D74962C7DC60300A9DCE8 /* LoginTestCase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -897,15 +897,15 @@
 			files = (
 				4F3D748E2C7DC04A00A9DCE8 /* StudentInfo.swift in Sources */,
 				4F0C79B62C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
+				4FAFBC752C88A3C9006D47AD /* PromotionTestCase.swift in Sources */,
+				4FAFBC762C88A3CF006D47AD /* LoginTestCase.swift in Sources */,
 				4F3D74772C7CCD6D00A9DCE8 /* Tips.swift in Sources */,
 				4F3D74822C7DB2D900A9DCE8 /* FiveMinutesAgoTestCase.swift in Sources */,
 				4F3D74902C7DC0A200A9DCE8 /* StudentInfoTestCase.swift in Sources */,
 				4F3D74792C7CCF5600A9DCE8 /* TipsTestCase.swift in Sources */,
-				4F3D74972C7DC60300A9DCE8 /* LoginTestCase.swift in Sources */,
 				4F3D74892C7DBDD100A9DCE8 /* DigitsSumTestCase.swift in Sources */,
 				4F3D74952C7DC5CE00A9DCE8 /* Login.swift in Sources */,
 				4F3D749C2C7DE82500A9DCE8 /* Promotion.swift in Sources */,
-				4F3D749E2C7DE8CB00A9DCE8 /* PromotionTestCase.swift in Sources */,
 				4F3D74872C7DBD6D00A9DCE8 /* DigitsSum.swift in Sources */,
 				4F3D74802C7DB28500A9DCE8 /* FiveMinutesAgo.swift in Sources */,
 			);
