@@ -15,7 +15,11 @@ final class StudentInfo: XCTestCase {
         // when
         studentInformation(name: "Игорь", birthYear: 2005, studentInfo: &studentInfo)
         // then
-        XCTAssertEqual(studentInfo, "ученик Игорь возраст 19")
+        XCTAssertEqual(
+            studentInfo,
+            "ученик Игорь возраст 19",
+            "Строка должна быть «ученик Игорь возраст 19», а сейчас «\(studentInfo)»"
+        )
     }
 
     func testStudentInfo2() throws {
@@ -24,7 +28,11 @@ final class StudentInfo: XCTestCase {
         // when
         studentInformation(name: "Петр", birthYear: 1999, studentInfo: &studentInfo)
         // then
-        XCTAssertEqual(studentInfo, "ученик Петр возраст 25")
+        XCTAssertEqual(
+            studentInfo,
+            "ученик Петр возраст 25",
+            "Строка должна быть «ученик Петр возраст 25», а сейчас «\(studentInfo)»"
+        )
     }
 
 }

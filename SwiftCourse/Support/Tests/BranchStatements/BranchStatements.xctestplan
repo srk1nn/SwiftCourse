@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "794F4C7B-2CDE-46CD-B2CF-A0CBE410409C",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:SwiftCourse.xcodeproj",
+      "identifier" : "4F0C798A2C8839D60082F4F6",
+      "name" : "BranchStatements"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftCourse.xcodeproj",
+        "identifier" : "4F0C79992C883CCB0082F4F6",
+        "name" : "BranchStatementsTests"
+      }
+    }
+  ],
+  "version" : 1
+}

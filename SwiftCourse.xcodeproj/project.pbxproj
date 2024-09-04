@@ -7,6 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F0C798D2C8839D60082F4F6 /* SwiftCourse.docc in Sources */ = {isa = PBXBuildFile; fileRef = 4F39F9412C7F072C008DD49D /* SwiftCourse.docc */; };
+		4F0C79962C8839F80082F4F6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79952C8839F80082F4F6 /* main.swift */; };
+		4F0C79A52C883D070082F4F6 /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79A42C883D070082F4F6 /* Score.swift */; };
+		4F0C79A62C883D070082F4F6 /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79A42C883D070082F4F6 /* Score.swift */; };
+		4F0C79A92C883DBA0082F4F6 /* ScoreTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79A82C883DBA0082F4F6 /* ScoreTestCase.swift */; };
+		4F0C79AD2C88400D0082F4F6 /* SimpleCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79AC2C88400D0082F4F6 /* SimpleCalculator.swift */; };
+		4F0C79AE2C88400D0082F4F6 /* SimpleCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79AC2C88400D0082F4F6 /* SimpleCalculator.swift */; };
+		4F0C79B02C88427F0082F4F6 /* SimpleCalculatorTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79AF2C88427F0082F4F6 /* SimpleCalculatorTestCase.swift */; };
+		4F0C79B32C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */; };
+		4F0C79B42C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */; };
+		4F0C79B52C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */; };
+		4F0C79B62C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */; };
+		4F0C79B72C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */; };
+		4F0C79B82C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */; };
+		4F0C79BC2C8847DD0082F4F6 /* EvenNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79BB2C8847DD0082F4F6 /* EvenNumber.swift */; };
+		4F0C79BD2C8847DD0082F4F6 /* EvenNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79BB2C8847DD0082F4F6 /* EvenNumber.swift */; };
+		4F0C79BF2C8848260082F4F6 /* EvenNumberTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79BE2C8848260082F4F6 /* EvenNumberTestCase.swift */; };
+		4F0C79C32C884BAB0082F4F6 /* Bonus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79C22C884BAB0082F4F6 /* Bonus.swift */; };
+		4F0C79C42C884BAB0082F4F6 /* Bonus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79C22C884BAB0082F4F6 /* Bonus.swift */; };
+		4F0C79C62C884BE10082F4F6 /* BonusTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79C52C884BE10082F4F6 /* BonusTestCase.swift */; };
+		4F0C79CA2C88571B0082F4F6 /* CreditRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79C92C88571B0082F4F6 /* CreditRating.swift */; };
+		4F0C79CB2C88571B0082F4F6 /* CreditRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79C92C88571B0082F4F6 /* CreditRating.swift */; };
+		4F0C79CD2C8857710082F4F6 /* CreditRatingTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79CC2C8857710082F4F6 /* CreditRatingTestCase.swift */; };
+		4F0C79D12C8876990082F4F6 /* BodyMassIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79D02C8876990082F4F6 /* BodyMassIndex.swift */; };
+		4F0C79D22C8876990082F4F6 /* BodyMassIndex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79D02C8876990082F4F6 /* BodyMassIndex.swift */; };
+		4F0C79D42C8876EE0082F4F6 /* BodyMassIndexTestCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F0C79D32C8876EE0082F4F6 /* BodyMassIndexTestCase.swift */; };
 		4F39F9422C7F072C008DD49D /* SwiftCourse.docc in Sources */ = {isa = PBXBuildFile; fileRef = 4F39F9412C7F072C008DD49D /* SwiftCourse.docc */; };
 		4F3D73EE2C7B48E600A9DCE8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D73ED2C7B48E600A9DCE8 /* main.swift */; };
 		4F3D74072C7B4B7300A9DCE8 /* UltimateQuestion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3D73F82C7B4A0400A9DCE8 /* UltimateQuestion.swift */; };
@@ -35,6 +61,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		4F0C798F2C8839D60082F4F6 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		4F3D73E82C7B48E600A9DCE8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -71,6 +106,32 @@
 		4F0C79052C86E7890082F4F6 /* task-resolve-process.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "task-resolve-process.md"; sourceTree = "<group>"; };
 		4F0C79062C86E8F60082F4F6 /* tests-scheme.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tests-scheme.png"; sourceTree = "<group>"; };
 		4F0C79072C86E90B0082F4F6 /* tests-start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tests-start.png"; sourceTree = "<group>"; };
+		4F0C79862C8837350082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79882C8838F00082F4F6 /* 3BranchStatements.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 3BranchStatements.md; sourceTree = "<group>"; };
+		4F0C79892C88393F0082F4F6 /* 4Optionals.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = 4Optionals.md; sourceTree = "<group>"; };
+		4F0C79942C8839D60082F4F6 /* BranchStatements */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BranchStatements; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F0C79952C8839F80082F4F6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		4F0C79982C883A730082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79A22C883CCB0082F4F6 /* BranchStatementsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BranchStatementsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F0C79A42C883D070082F4F6 /* Score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
+		4F0C79A72C883D8D0082F4F6 /* BranchStatements.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = BranchStatements.xctestplan; sourceTree = "<group>"; };
+		4F0C79A82C883DBA0082F4F6 /* ScoreTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoreTestCase.swift; sourceTree = "<group>"; };
+		4F0C79AB2C883FFE0082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79AC2C88400D0082F4F6 /* SimpleCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCalculator.swift; sourceTree = "<group>"; };
+		4F0C79AF2C88427F0082F4F6 /* SimpleCalculatorTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCalculatorTestCase.swift; sourceTree = "<group>"; };
+		4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FloatingPoint+Compare.swift"; sourceTree = "<group>"; };
+		4F0C79BA2C8845850082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79BB2C8847DD0082F4F6 /* EvenNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenNumber.swift; sourceTree = "<group>"; };
+		4F0C79BE2C8848260082F4F6 /* EvenNumberTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenNumberTestCase.swift; sourceTree = "<group>"; };
+		4F0C79C12C884A2B0082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79C22C884BAB0082F4F6 /* Bonus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bonus.swift; sourceTree = "<group>"; };
+		4F0C79C52C884BE10082F4F6 /* BonusTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BonusTestCase.swift; sourceTree = "<group>"; };
+		4F0C79C82C8852810082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79C92C88571B0082F4F6 /* CreditRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditRating.swift; sourceTree = "<group>"; };
+		4F0C79CC2C8857710082F4F6 /* CreditRatingTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditRatingTestCase.swift; sourceTree = "<group>"; };
+		4F0C79CF2C8873870082F4F6 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		4F0C79D02C8876990082F4F6 /* BodyMassIndex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyMassIndex.swift; sourceTree = "<group>"; };
+		4F0C79D32C8876EE0082F4F6 /* BodyMassIndexTestCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyMassIndexTestCase.swift; sourceTree = "<group>"; };
 		4F39F9412C7F072C008DD49D /* SwiftCourse.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = SwiftCourse.docc; sourceTree = "<group>"; };
 		4F3D73EA2C7B48E600A9DCE8 /* PrimitiveTypes */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PrimitiveTypes; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3D73ED2C7B48E600A9DCE8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -115,6 +176,20 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		4F0C798E2C8839D60082F4F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4F0C799D2C883CCB0082F4F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4F3D73E72C7B48E600A9DCE8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -153,6 +228,97 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4F0C79852C8837140082F4F6 /* BranchStatements */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79862C8837350082F4F6 /* readme.md */,
+				4F0C79952C8839F80082F4F6 /* main.swift */,
+				4F0C79AA2C883FBC0082F4F6 /* SimpleCalculator */,
+				4F0C79B92C8845690082F4F6 /* EvenNumber */,
+				4F0C79C02C884A150082F4F6 /* Bonus */,
+				4F0C79972C883A180082F4F6 /* Score */,
+				4F0C79CE2C8873730082F4F6 /* BodyMassIndex */,
+				4F0C79C72C8852700082F4F6 /* CreditRating */,
+			);
+			path = BranchStatements;
+			sourceTree = "<group>";
+		};
+		4F0C79972C883A180082F4F6 /* Score */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79982C883A730082F4F6 /* readme.md */,
+				4F0C79A42C883D070082F4F6 /* Score.swift */,
+			);
+			path = Score;
+			sourceTree = "<group>";
+		};
+		4F0C79A32C883CF00082F4F6 /* BranchStatements */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79A72C883D8D0082F4F6 /* BranchStatements.xctestplan */,
+				4F0C79AF2C88427F0082F4F6 /* SimpleCalculatorTestCase.swift */,
+				4F0C79BE2C8848260082F4F6 /* EvenNumberTestCase.swift */,
+				4F0C79A82C883DBA0082F4F6 /* ScoreTestCase.swift */,
+				4F0C79C52C884BE10082F4F6 /* BonusTestCase.swift */,
+				4F0C79CC2C8857710082F4F6 /* CreditRatingTestCase.swift */,
+				4F0C79D32C8876EE0082F4F6 /* BodyMassIndexTestCase.swift */,
+			);
+			path = BranchStatements;
+			sourceTree = "<group>";
+		};
+		4F0C79AA2C883FBC0082F4F6 /* SimpleCalculator */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79AB2C883FFE0082F4F6 /* readme.md */,
+				4F0C79AC2C88400D0082F4F6 /* SimpleCalculator.swift */,
+			);
+			path = SimpleCalculator;
+			sourceTree = "<group>";
+		};
+		4F0C79B12C8843710082F4F6 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79B22C8843810082F4F6 /* FloatingPoint+Compare.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		4F0C79B92C8845690082F4F6 /* EvenNumber */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79BA2C8845850082F4F6 /* readme.md */,
+				4F0C79BB2C8847DD0082F4F6 /* EvenNumber.swift */,
+			);
+			path = EvenNumber;
+			sourceTree = "<group>";
+		};
+		4F0C79C02C884A150082F4F6 /* Bonus */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79C12C884A2B0082F4F6 /* readme.md */,
+				4F0C79C22C884BAB0082F4F6 /* Bonus.swift */,
+			);
+			path = Bonus;
+			sourceTree = "<group>";
+		};
+		4F0C79C72C8852700082F4F6 /* CreditRating */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79C82C8852810082F4F6 /* readme.md */,
+				4F0C79C92C88571B0082F4F6 /* CreditRating.swift */,
+			);
+			path = CreditRating;
+			sourceTree = "<group>";
+		};
+		4F0C79CE2C8873730082F4F6 /* BodyMassIndex */ = {
+			isa = PBXGroup;
+			children = (
+				4F0C79CF2C8873870082F4F6 /* readme.md */,
+				4F0C79D02C8876990082F4F6 /* BodyMassIndex.swift */,
+			);
+			path = BodyMassIndex;
+			sourceTree = "<group>";
+		};
 		4F0F4AFC2C84C10800E45523 /* Docs */ = {
 			isa = PBXGroup;
 			children = (
@@ -169,6 +335,7 @@
 			children = (
 				4F3D74102C7B4C2300A9DCE8 /* Tutorial */,
 				4F3D74302C7B4FAC00A9DCE8 /* PrimitiveTypes */,
+				4F0C79A32C883CF00082F4F6 /* BranchStatements */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -178,6 +345,8 @@
 			children = (
 				4F3D749F2C7DEA5C00A9DCE8 /* 1TypesVariables.md */,
 				4F3D74A02C7DEB2600A9DCE8 /* 2BasicOperators.md */,
+				4F0C79882C8838F00082F4F6 /* 3BranchStatements.md */,
+				4F0C79892C88393F0082F4F6 /* 4Optionals.md */,
 			);
 			path = Synopsis;
 			sourceTree = "<group>";
@@ -199,6 +368,8 @@
 				4F3D74172C7B4C8400A9DCE8 /* TutorialTests.xctest */,
 				4F3D74282C7B4F7C00A9DCE8 /* PrimitiveTypesTests.xctest */,
 				4F3D74512C7B824000A9DCE8 /* SwiftCourse */,
+				4F0C79942C8839D60082F4F6 /* BranchStatements */,
+				4F0C79A22C883CCB0082F4F6 /* BranchStatementsTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -218,6 +389,7 @@
 				4F3D74592C7B8C2700A9DCE8 /* readme.md */,
 				4F3D73F62C7B49E700A9DCE8 /* Tutorial */,
 				4F3D73F52C7B49AB00A9DCE8 /* PrimitiveTypes */,
+				4F0C79852C8837140082F4F6 /* BranchStatements */,
 			);
 			path = Exercises;
 			sourceTree = "<group>";
@@ -282,6 +454,7 @@
 		4F3D74532C7B832900A9DCE8 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				4F0C79B12C8843710082F4F6 /* Helpers */,
 				4F0F4AFE2C84C18900E45523 /* Synopsis */,
 				4F0F4AFD2C84C13700E45523 /* Tests */,
 				4F0F4AFC2C84C10800E45523 /* Docs */,
@@ -369,6 +542,41 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		4F0C798A2C8839D60082F4F6 /* BranchStatements */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4F0C79912C8839D60082F4F6 /* Build configuration list for PBXNativeTarget "BranchStatements" */;
+			buildPhases = (
+				4F0C798B2C8839D60082F4F6 /* Sources */,
+				4F0C798E2C8839D60082F4F6 /* Frameworks */,
+				4F0C798F2C8839D60082F4F6 /* CopyFiles */,
+				4F0C79902C8839D60082F4F6 /* SwiftLint */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BranchStatements;
+			productName = SwiftCourse;
+			productReference = 4F0C79942C8839D60082F4F6 /* BranchStatements */;
+			productType = "com.apple.product-type.tool";
+		};
+		4F0C79992C883CCB0082F4F6 /* BranchStatementsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4F0C799F2C883CCB0082F4F6 /* Build configuration list for PBXNativeTarget "BranchStatementsTests" */;
+			buildPhases = (
+				4F0C799A2C883CCB0082F4F6 /* Sources */,
+				4F0C799D2C883CCB0082F4F6 /* Frameworks */,
+				4F0C799E2C883CCB0082F4F6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BranchStatementsTests;
+			productName = TutorialTests;
+			productReference = 4F0C79A22C883CCB0082F4F6 /* BranchStatementsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		4F3D73E92C7B48E600A9DCE8 /* PrimitiveTypes */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4F3D73F12C7B48E600A9DCE8 /* Build configuration list for PBXNativeTarget "PrimitiveTypes" */;
@@ -467,6 +675,9 @@
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
+					4F0C79992C883CCB0082F4F6 = {
+						LastSwiftMigration = 1530;
+					};
 					4F3D73E92C7B48E600A9DCE8 = {
 						CreatedOnToolsVersion = 15.3;
 					};
@@ -499,11 +710,20 @@
 				4F3D74162C7B4C8400A9DCE8 /* TutorialTests */,
 				4F3D73E92C7B48E600A9DCE8 /* PrimitiveTypes */,
 				4F3D74272C7B4F7C00A9DCE8 /* PrimitiveTypesTests */,
+				4F0C798A2C8839D60082F4F6 /* BranchStatements */,
+				4F0C79992C883CCB0082F4F6 /* BranchStatementsTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		4F0C799E2C883CCB0082F4F6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4F3D74152C7B4C8400A9DCE8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -521,6 +741,25 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		4F0C79902C8839D60082F4F6 /* SwiftLint */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = SwiftLint;
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "${SRCROOT}/swiftlint\n";
+		};
 		4F3D74322C7B501A00A9DCE8 /* SwiftLint */ = {
 			isa = PBXShellScriptBuildPhase;
 			alwaysOutOfDate = 1;
@@ -581,6 +820,42 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		4F0C798B2C8839D60082F4F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F0C79B72C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
+				4F0C79962C8839F80082F4F6 /* main.swift in Sources */,
+				4F0C79BC2C8847DD0082F4F6 /* EvenNumber.swift in Sources */,
+				4F0C79AD2C88400D0082F4F6 /* SimpleCalculator.swift in Sources */,
+				4F0C79A52C883D070082F4F6 /* Score.swift in Sources */,
+				4F0C79D12C8876990082F4F6 /* BodyMassIndex.swift in Sources */,
+				4F0C79CA2C88571B0082F4F6 /* CreditRating.swift in Sources */,
+				4F0C79C32C884BAB0082F4F6 /* Bonus.swift in Sources */,
+				4F0C798D2C8839D60082F4F6 /* SwiftCourse.docc in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4F0C799A2C883CCB0082F4F6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4F0C79B82C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
+				4F0C79C62C884BE10082F4F6 /* BonusTestCase.swift in Sources */,
+				4F0C79AE2C88400D0082F4F6 /* SimpleCalculator.swift in Sources */,
+				4F0C79BF2C8848260082F4F6 /* EvenNumberTestCase.swift in Sources */,
+				4F0C79BD2C8847DD0082F4F6 /* EvenNumber.swift in Sources */,
+				4F0C79CB2C88571B0082F4F6 /* CreditRating.swift in Sources */,
+				4F0C79D42C8876EE0082F4F6 /* BodyMassIndexTestCase.swift in Sources */,
+				4F0C79B02C88427F0082F4F6 /* SimpleCalculatorTestCase.swift in Sources */,
+				4F0C79CD2C8857710082F4F6 /* CreditRatingTestCase.swift in Sources */,
+				4F0C79D22C8876990082F4F6 /* BodyMassIndex.swift in Sources */,
+				4F0C79C42C884BAB0082F4F6 /* Bonus.swift in Sources */,
+				4F0C79A92C883DBA0082F4F6 /* ScoreTestCase.swift in Sources */,
+				4F0C79A62C883D070082F4F6 /* Score.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4F3D73E62C7B48E600A9DCE8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -591,6 +866,7 @@
 				4F3D74762C7CCD6A00A9DCE8 /* Tips.swift in Sources */,
 				4F3D74942C7DC5C900A9DCE8 /* Login.swift in Sources */,
 				4F3D747F2C7DB28500A9DCE8 /* FiveMinutesAgo.swift in Sources */,
+				4F0C79B52C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
 				4F3D74862C7DBD6D00A9DCE8 /* DigitsSum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -600,6 +876,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F3D740F2C7B4BD100A9DCE8 /* main.swift in Sources */,
+				4F0C79B32C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
 				4F3D74072C7B4B7300A9DCE8 /* UltimateQuestion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -609,6 +886,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F3D74212C7B4D8E00A9DCE8 /* UltimateQuestionTestCase.swift in Sources */,
+				4F0C79B42C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
 				4F3D74232C7B4D9800A9DCE8 /* UltimateQuestion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -618,6 +896,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F3D748E2C7DC04A00A9DCE8 /* StudentInfo.swift in Sources */,
+				4F0C79B62C8843810082F4F6 /* FloatingPoint+Compare.swift in Sources */,
 				4F3D74772C7CCD6D00A9DCE8 /* Tips.swift in Sources */,
 				4F3D74822C7DB2D900A9DCE8 /* FiveMinutesAgoTestCase.swift in Sources */,
 				4F3D74902C7DC0A200A9DCE8 /* StudentInfoTestCase.swift in Sources */,
@@ -644,6 +923,58 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		4F0C79922C8839D60082F4F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		4F0C79932C8839D60082F4F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		4F0C79A02C883CCB0082F4F6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.srk1nn.TutorialTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		4F0C79A12C883CCB0082F4F6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.srk1nn.TutorialTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
 		4F3D73EF2C7B48E600A9DCE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -878,6 +1209,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		4F0C79912C8839D60082F4F6 /* Build configuration list for PBXNativeTarget "BranchStatements" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4F0C79922C8839D60082F4F6 /* Debug */,
+				4F0C79932C8839D60082F4F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4F0C799F2C883CCB0082F4F6 /* Build configuration list for PBXNativeTarget "BranchStatementsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4F0C79A02C883CCB0082F4F6 /* Debug */,
+				4F0C79A12C883CCB0082F4F6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4F3D73E52C7B48E600A9DCE8 /* Build configuration list for PBXProject "SwiftCourse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

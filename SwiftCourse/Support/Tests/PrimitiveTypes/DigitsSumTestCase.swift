@@ -15,7 +15,11 @@ final class DigitsSum: XCTestCase {
         // when
         calculateDigitsSum(number: 13, sum: &sum)
         // then
-        XCTAssertEqual(sum, 4)
+        XCTAssertEqual(
+            sum,
+            4,
+            "Для числа 13 сумма цифра равна 4. А сейчас \(sum)"
+        )
     }
 
     func testDigitsSum2() throws {
@@ -24,7 +28,11 @@ final class DigitsSum: XCTestCase {
         // when
         calculateDigitsSum(number: 67, sum: &sum)
         // then
-        XCTAssertEqual(sum, 13)
+        XCTAssertEqual(
+            sum,
+            13,
+            "Для числа 67 сумма цифра равна 13. А сейчас \(sum)"
+        )
     }
 
     func testDigitsSum3() throws {
@@ -33,7 +41,11 @@ final class DigitsSum: XCTestCase {
         // when
         calculateDigitsSum(number: 10, sum: &sum)
         // then
-        XCTAssertEqual(sum, 1)
+        XCTAssertEqual(
+            sum,
+            1,
+            "Для числа 10 сумма цифра равна 1. А сейчас \(sum)"
+        )
     }
 
 }
