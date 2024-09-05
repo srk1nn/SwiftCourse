@@ -4,8 +4,8 @@
 
 ## Пререквизиты
 
-- [3. Операторы условного перехода](Youtube/link)
-- [4. Опционал и преобразования](Youtube/link)
+- [3. Операторы условного перехода](https://www.youtube.com/watch?v=ezwFLCV1HBA&list=PLW-q7T9cIFitF2Kyz_BwfwKD96Onxt1Fk&index=5)
+- [4. Опционал и преобразования](https://www.youtube.com/watch?v=gDmJn4aRi3I&list=PLW-q7T9cIFitF2Kyz_BwfwKD96Onxt1Fk&index=6)
 
 ## Конспекты
 

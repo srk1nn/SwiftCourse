@@ -17,7 +17,5 @@
 - [Линтер ✏️](SwiftCourse/Support/Docs/linter.md)
 
 ## Ссылки
-- Видео на YouTube
-- Видео на RuTube
-- Видео на VK
-- Сообщество в Telegram
+- [Курс на YouTube](https://www.youtube.com/playlist?list=PLW-q7T9cIFitF2Kyz_BwfwKD96Onxt1Fk)
+- [Сообщество в Telegram 💬](https://t.me/ios_school)
