@@ -16,6 +16,18 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>Collections.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>CollectionsTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>PrimitiveTypes.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -81,6 +93,16 @@
 			<true/>
 		</dict>
 		<key>4F3D74462C7B824000A9DCE8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F901E8B2D462EFB00B0FB10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F901E9D2D462F0700B0FB10</key>
 		<dict>
 			<key>primary</key>
 			<true/>

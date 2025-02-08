@@ -11,6 +11,8 @@ disabled_rules:
   - unused_capture_list
   - vertical_whitespace
   - trailing_whitespace
+  - for_where
+  - array_constructor
 
 analyzer_rules:
   - unused_import

@@ -21,7 +21,7 @@
       "target" : {
         "containerPath" : "container:SwiftCourse.xcodeproj",
         "identifier" : "4F3D74272C7B4F7C00A9DCE8",
-        "name" : "VariablesTests"
+        "name" : "PrimitiveTypesTests"
       }
     }
   ],

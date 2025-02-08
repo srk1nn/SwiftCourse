@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "BAE074A5-7FF3-497D-A36B-188E94E300AB",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SwiftCourse.xcodeproj",
+        "identifier" : "4F901E9D2D462F0700B0FB10",
+        "name" : "CollectionsTests"
+      }
+    }
+  ],
+  "version" : 1
+}
